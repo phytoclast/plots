@@ -1,0 +1,43 @@
+Plot	Community
+GRR.GJS.2014.10	Sugar Maple-Beech//Soloman’s Seal
+GRR.GJS.2014.31	Sugar Maple-Beech//Soloman’s Seal
+GRR.GJS.2013.2	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.3	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.7	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.5	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.6	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.9	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2012.5	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.8	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.11	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.12	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.35	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.38	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.36	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.37	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.27a	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2014.27	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2014.29	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2014.30	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2012.9	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.15	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.26a	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.28a	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.29a	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2013.40a	Red Maple-Red Oak/Greenbrier/Bracken Fern
+GRR.GJS.2014.11	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.19	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.22	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.14	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.15	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2012.4	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.25	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.26	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.13	White Oak-White Pine/Flowering Dogwood/
+GRR.GJS.2014.17	Black Oak-White Oak/Black Oatgrass-Lupine
+GRR.GJS.2014.20	Black Oak-White Oak/Black Oatgrass-Lupine
+GRR.GJS.2014.18	Black Oak-White Oak/Black Oatgrass-Lupine
+GRR.GJS.2014.24	Black Oak-White Oak/Black Oatgrass-Lupine
+GRR.GJS.2014.16	Black Oak/Little Bluestem –Flowering Spurge
+GRR.GJS.2014.33	Black Oak/Little Bluestem –Flowering Spurge
+GRR.GJS.2014.34	Black Oak/Little Bluestem –Flowering Spurge
