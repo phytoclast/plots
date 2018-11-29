@@ -26,10 +26,10 @@ library(treemap)
 
 
 #0 import data-------------------------
-obsspp <- read.delim("C:/workspace/plots/Observed_Species.txt")
-synonymy <- read.delim("C:/workspace/plots/List_Species2011.txt")
-growthhabit <- read.delim("C:/workspace/plots/List_Habits.txt")
-clusters <- read.delim("C:/workspace/plots/Community_Clusters.txt")
+obsspp <- read.delim("Observed_Species.txt")
+synonymy <- read.delim("List_Species2011.txt")
+growthhabit <- read.delim("List_Habits.txt")
+clusters <- read.delim("Community_Clusters.txt")
 obsspp$AcTaxon<- NULL #removing this column because we will create it as a demo
 obsspp<- obsspp[obsspp$Module!='BA',] #removing this column because we will create it as a demo
 growthhabit<-growthhabit[!(is.na(growthhabit$Form) | growthhabit$Form==""),] #remove blanks
